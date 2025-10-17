@@ -1,0 +1,12 @@
+{
+  "name": "web-redirect",
+  "version": "1.0.0",
+  "description": "Simple permanent HTTP redirect that reads DESTINATION_URL from env",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
